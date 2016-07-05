@@ -10,7 +10,7 @@
  | URL: http://phpfm.sf.net
  | Last Changed: 2013-10-15
  +--------------------------------------------------
- | OPEN SOURCE CONTRIBUTIONS
+ | OPEN SOURCE CONTRIBUTIONS   ---- Hamid added 
  +--------------------------------------------------
  | TAR/GZIP/BZIP2/ZIP ARCHIVE CLASSES 2.0
  | By Devin Doucette
